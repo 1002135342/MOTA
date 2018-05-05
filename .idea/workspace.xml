@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c10a745b-f9dc-4c93-990e-08ee806bb204" name="Default" comment="" />
+    <list default="true" id="c10a745b-f9dc-4c93-990e-08ee806bb204" name="Default" comment="课程设计：魔塔">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -354,7 +357,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512783986123</updated>
-      <workItem from="1525509575384" duration="471000" />
+      <workItem from="1525509575384" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="课程设计：魔塔">
       <created>1525509898775</created>
@@ -367,7 +370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="471000" />
+    <option name="totallyTimeSpent" value="770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
